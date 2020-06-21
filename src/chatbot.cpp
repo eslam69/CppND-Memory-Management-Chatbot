@@ -39,8 +39,7 @@ ChatBot::~ChatBot()
     {
         delete _image;
         _image = NULL;
-        _chatLogic = nullptr;
-        _rootNode = nullptr;
+        
     }
 }
 

@@ -2,6 +2,7 @@
 #define CHATBOT_H_
 
 #include <wx/bitmap.h>
+#include <memory>
 #include <string>
 
 class GraphNode; // forward declaration
