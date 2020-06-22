@@ -2,6 +2,7 @@
 #include "graphnode.h"
 #include <memory>
 
+
 GraphNode::GraphNode(int id)
 {
     _id = id;
